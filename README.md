@@ -1,12 +1,9 @@
 # AI-MHE
-# Using Outcome-Based Meta Machine Learning Approach Towards Predicting Medical Student Status
+# Meta-machine Learning and Explainable AI: Performance Prediction of Medical Students in Serial Comprehensive Medical Assessments
 # introduction:
-In various countries, medical students are required to pass a series of medical licensing examinations to graduate with a Doctor of Medicine degree. At the same time, their performance in one of these exams might indicate their future performance in subsequent exams. This study proposes a generic artificial intelligence (AI) methodology, called AI-MHE, that utilizes innovative meta-machine learning (ML) and outcome-based models to accurately and reliably predict the performance of medical students in comprehensive medical licensing examinations. 
-This methodology aims to provide insights into the early prediction of students' performance and identify at-risk students in current and future medical licensing exams.
-# Conclusion: 
-AI-MHE has demonstrated the potential of outcome-based meta-ML models as an accurate and reliable substitute for medical licensing examinations. Our models provided insights for students and educators by early identifying at-risk students and determining the specific courses that require personal focus during their education. Additionally, they can assist policy-makers in developing targeted interventions to enhance medical students' academic performance, ultimately leading to overall improvements in medical licensing exam outcomes.
+Serial comprehensive medical assessments are widely used in medical universities and academic hospitals to evaluate the competency of medical sciences students. However, these assessments can be time-consuming, expensive for universities, and stressful for students. To address these challenges, this study proposes a meta-machine learning (meta-ML) framework incorporating eXplainable artificial intelligence (XAI) to predict students' performance in serial comprehensive medical assessments. The framework aims to provide students, educators, and policymakers insights to identify at-risk students, determine specific courses requiring more attention, and develop targeted interventions. This study suggests that meta-ML models and XAI techniques can be reliable alternatives to comprehensive medical assessments. The findings can be valuable in identifying at-risk students and implementing evidence-based interventions to enhance students' academic achievements.
 # Keywords: 
-Artificial intelligence in education, Analytic study, Automated assessment, Data mining, Educational data mining, Educational data, Explainable AI, Machine learning, Medical licensing exams, Outcome-based models.
+Artificial intelligence, Comprehensive medical assessments, Educational data mining, Explainable AI, Machine learning, and Medical licensing exams.
 # Corresponding Authors: 
 Toktam Dehghani; 
-Email: DehghaniT982@mums.ac.ir.
+Email: Dehghani.toktam@mail.um.ac.ir;
